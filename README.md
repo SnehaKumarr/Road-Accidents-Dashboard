@@ -122,5 +122,10 @@ The Road Accident Analysis Dashboard highlights key patterns and trends across a
 
 ---
 
+## Screenshots
+<img width="1199" height="677" alt="Snapshot of the Dashboard" src="https://github.com/user-attachments/assets/576ac764-32ed-4fdc-bc8a-364916c12813" />
+
+
+---
 ## Author  
 Sneha Kumar (NIT Raipur)
