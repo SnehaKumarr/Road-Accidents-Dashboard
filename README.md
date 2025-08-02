@@ -43,7 +43,6 @@ This dashboard is designed to analyze:
 - **Map Visualization (Bing Maps)** → for plotting accident locations  
 ---
 
----
 
 ## Data Source  
 
@@ -75,7 +74,6 @@ These fields were cleaned and transformed in **Power Query**, and KPIs were buil
 ---
 
 
----
 
 ## Insights  
 
